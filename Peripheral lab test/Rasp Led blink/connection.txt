@@ -1,0 +1,2 @@
+Gnd(Led)-->Gnd(Rasp)
+Vcc(Led)-->pin 11(Rasp)

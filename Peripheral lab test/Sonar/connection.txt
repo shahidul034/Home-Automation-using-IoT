@@ -1,0 +1,6 @@
+vcc,trig,echo,gnd
+
+vcc(sonar)-->5v(arduino)
+Gnd(sonar)-->Gnd(arduino)
+trig(sonar)-->pin 9(arduino)
+echo(sonar)-->pin 8(arduino)

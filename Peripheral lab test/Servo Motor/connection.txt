@@ -1,0 +1,7 @@
+red->vcc
+black/deep brown->gnd
+yellow/orange->signal
+
+vcc(servo)-->5v(arduino)
+Gnd(servo)-->Gndarduino)
+signal(servo)-->pin 3(arduino){according to code int servoPin=3;

@@ -1,0 +1,5 @@
+Gnd(flex)-->Gnd(arduino)
+Vcc(flex)-->10k resistor-->5v(arduino)
+Vcc(flex)-->pin A0(arduino)
+Gnd(Led)-->Gnd(arduino)
+Vcc(led)-->220 resistor-->pin 3(arduino)

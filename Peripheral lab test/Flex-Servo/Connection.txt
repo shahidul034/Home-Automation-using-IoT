@@ -1,0 +1,7 @@
+Gnd(flex)-->Gnd(arduino)
+Vcc(flex)-->10k resistor-->5v(arduino)
+Vcc(flex)-->pin A0(arduino)
+
+vcc(servo)-->5v(arduino)
+Gnd(servo)-->Gnd(arduino)
+signal(servo)-->pin 3(arduino){according to code int servoPin=3;

@@ -1,0 +1,15 @@
+Vss(Lcd)-->Gnd(Arduino)
+Vdd(Lcd)-->5v(Arduino)
+V0(Lcd)-->Potentiometer
+RS(Lcd)-->pin 12(Arduino)
+R/W(Lcd)-->Gnd(Arduino)
+E(Lcd)-->pin 11(Arduino)
+K(Lcd)-->Gnd(Arduino)
+A(Lcd)-->5V(Arduino)
+D7(Lcd)-->pin 2(Arduino)
+D6(Lcd)-->pin 3(Arduino)
+D5(Lcd)-->pin 4(Arduino)
+D4(Lcd)-->pin 5(Arduino)
+
+VCC(potentiometer)-->5v(Arduino)
+Gnd(potentiometer)-->Gnd(Arduino)

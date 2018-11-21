@@ -1,0 +1,2 @@
+trig(Sonar)-->pin 9
+echo(sonar)-->pin 8
